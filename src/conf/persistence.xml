@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+  <persistence-unit name="SIBOWebPU" transaction-type="RESOURCE_LOCAL">
+    <provider>oracle.toplink.essentials.PersistenceProvider</provider>
+    <non-jta-data-source>prueba</non-jta-data-source>
+    <class>entidad.Boleta</class>
+    <class>entidad.Categoria</class>
+    <class>entidad.Cliente</class>
+    <class>entidad.Escenario</class>
+    <class>entidad.Evento</class>
+    <class>entidad.Locacion</class>
+    <class>entidad.Organizador</class>
+    <class>entidad.Presentacion</class>
+    <class>entidad.Puntodeventa</class>
+    <class>entidad.Registroventa</class>
+    <class>entidad.Remuneracion</class>
+    <class>entidad.Reporteventas</class>
+    <class>entidad.Rol</class>
+    <class>entidad.Usuario</class>
+    <exclude-unlisted-classes>true</exclude-unlisted-classes>
+    <properties>
+      <property name="toplink.cache.type.default" value="NONE"/>
+      <property name="toplink.jdbc.user" value="root"/>
+      <property name="toplink.jdbc.password" value="guyozz90"/>
+      <property name="toplink.jdbc.url" value="jdbc:mysql://localhost:3306/sibodb"/>
+      <property name="toplink.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+    </properties>
+  </persistence-unit>
+</persistence>

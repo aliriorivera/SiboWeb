@@ -1,0 +1,333 @@
+* {
+	font-family: Arial,Sans;
+	font-size: 12pt;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+#container {
+	width: 1000px;
+	margin: auto;
+}
+#header {
+	width: 1000px;
+	height: 60px;
+        float: left;
+	background: url(include/images/header.jpg);
+}
+#header a{
+	color: white;
+}
+#links {
+	width: 650px;
+	height: 100%;
+	float: left;
+}
+#links a{
+    width: 150px;
+    float: left;
+}
+#links ul {
+        width: 500px;
+        float:left;
+        margin-top: 25px;
+	list-style: none;
+}
+#links ul li {
+	width: 95px;
+	height: 35px;
+	float: left;
+        padding-right: 2px;
+}
+#links ul li a{
+	display: block;
+	width: 95px;
+	height: 30px;
+	text-decoration: none;
+	text-align: center;
+        padding-top: 5px;
+        background: url(include/images/link.jpg);
+}
+#links ul li a.selected{background: url(include/images/linkselected.jpg);}
+#links ul li a:hover{background: url(include/images/linkhover.jpg);}
+#search {
+	width: 350px;
+	height: 100%;
+	float: right;
+}
+#option {
+    width: 100%;
+    height: 30px;
+    text-align: right;
+    float: left;
+}
+#option a{text-decoration: none;}
+#box {
+    width: 100%;
+    height: 30px;
+    float: left;
+    color: white;
+}
+#box fieldset{
+    width: 100%;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+#content {
+    width: 1000px;
+    float: left;
+}
+#logerror{
+    width: 333px;
+    margin: auto;
+}
+#content h1.form{text-align: center;}
+#content p.error{color: red;}
+#left{
+    width: 150px;
+    float: left;
+}
+#left ul{list-style: none;}
+#subcat{
+    width: 100%;
+}
+#subcat li{border-bottom: 1px solid #FF7F50;}
+#subcat ul a{
+    width: 140px;
+    height: 26px;
+    padding-top: 4px;
+    padding-left: 4px;
+    display: block;
+    color: black;
+    border-left: 5px solid #FF8C00;
+    border-right: 1px solid #FF8C00;
+    background: white;
+    text-decoration: none;
+}
+#subcat ul a.selected{
+    background: #FFAB78;
+    border-left: 5px solid #FF4500;
+}
+#subcat ul a:hover{background: #FF8C00;}
+#paginfo{
+    width: 846px;
+    margin-top: 4px;
+    margin-left: 4px;
+    border-top: #ADD8E6 1px solid;
+    border-bottom: #ADD8E6 1px solid;
+}
+#paginfo p{
+    margin-left: 4px;
+}
+#result{
+    width: 850px;
+    float: right;
+}
+#result h2.nevent{
+    margin-top: 4px;
+    margin-left: 4px;
+}
+#result a{color: #4169E1;}
+#result .evento{
+    margin-top: 4px;
+    margin-left: 4px;
+    width: 846px;
+    height: 100px;
+    border-bottom: #DCDCDC 1px solid;
+}
+#result .evento a{text-decoration: none;}
+#result .evento img{
+    padding-top: 5px;
+    float: left;
+}
+#result .evento h2{border-bottom: 1px dashed black;}
+#evento{
+    width: 1000px;
+}
+#evento img{
+    width: 400px;
+    margin: auto;
+}
+#evento p{
+    width: 596px;
+    margin-left: 4px;
+    margin-top: 4px;
+    float: right;
+}
+#pago{
+    width: 1000px;
+}
+#pago label{
+    width: 150px;
+    float: left;
+}
+#pago select, #pago input{
+    margin-top: 2px;
+    border: 1px solid black;
+}
+table.resumen{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.resumen td{padding-left: 4px;}
+table.resumen thead td{
+    border-bottom: 1px dashed black;
+    background: #b9c9fe;
+}
+table.resumen tbody{
+    border-bottom: 1px dashed black;
+}
+#formpago{
+    width: 400px;
+    float: left;
+}
+#formpago label{
+    width: 160px;
+    float: left;
+}
+#formpago select{
+    margin-top: 2px;
+    border: black 1px solid;
+}
+#paginador{
+    width: 846px;
+    margin-left: 4px;
+}
+#destacados{
+    width: 1000px;
+}
+#destacados h1{
+    width: 100%;
+    text-align: center;
+}
+#conciertos{
+    width: 333px;
+    float: left;
+    border-right: black 1px dashed;
+}
+#teatro{
+    width: 331px;
+    float: left;
+    margin-left: 1px;
+    background: #AFEEEE;
+    border-right: black 1px dashed;
+}
+#deportes{
+    width: 332px;
+    float: left;
+    margin-left: 1px;
+}
+#login{
+    width: 333px;
+    margin: auto;
+}
+#login fieldset{
+    background: #ADD8E6;
+    margin-top: 5px;
+    border: black 1px solid;
+}
+#login fieldset legend{padding-bottom: 15px;}
+#login fieldset label{
+    width: 140px;
+    display: block;
+    float: left;
+}
+#login fieldset input{
+    border: #4169E1 1px solid;
+    margin-top: 2px;
+}
+#login fieldset button{
+    width: 70px;
+    height: 25px;
+    color: white;
+    background: url(include/images/img_button.jpg);
+}
+#registro fieldset button
+{
+    width: 70px;
+    height: 25px;
+    color: white;
+    background: url(include/images/img_button.jpg);
+}
+#registro{
+    width: 550px;
+    margin: auto;
+}
+#registro fieldset{
+    background: #ADD8E6;
+    margin-top: 5px;
+    border: black 1px solid;
+}
+#registro fieldset input{
+    border: #4169E1 1px solid;
+    margin-top: 2px;
+}
+#registro fieldset legend {padding-bottom: 15px;}
+#registro fieldset label{
+    width: 180px;
+    display: block;
+    float: left;
+}
+#tags{
+    width: 1000px;
+}
+.center {text-align: center;}
+#tags a{
+    color: orange;
+    text-decoration: none;
+}
+#tags ul{
+    list-style: none;
+}
+#tags ul.conciertos{
+    width: 332px;
+    height: 40px;
+    float: left;
+    background: white;
+    border-right: 1px dashed black;
+}
+#tags ul.conciertos li{
+    margin-right: 12px;
+    float: left;
+}
+#tags ul.teatro{
+    width: 314px;
+    height: 40px;
+    float: left;
+    background: white;
+    border-right: 1px dashed black;
+    padding-left: 18px;
+}
+#tags ul.teatro li{
+    margin-right: 12px;
+    float: left;
+}
+#tags ul.deportes{
+    width: 314px;
+    height: 40px;
+    float: left;
+    background: white;
+    padding-left: 18px;
+}
+#tags ul.deportes li{
+    margin-right: 12px;
+    float: left;
+}
+#cat {
+    text-align: center;
+}
+#cat h2{
+    width: 333px;
+    float: left;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+}
+#footer {
+	width: 1000px;
+        height: 60px;
+        float: left;
+        color: white;
+        background: url(include/images/footer.jpg);
+        text-align: center;
+}
+#footer a{color: white;}

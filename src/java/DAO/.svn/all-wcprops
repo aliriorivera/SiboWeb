@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sibo~siborepo/!svn/ver/166/trunk/SIBOWeb/src/java/DAO
+END
+BoletaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sibo~siborepo/!svn/ver/166/trunk/SIBOWeb/src/java/DAO/BoletaDAO.java
+END
+LocacionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/LocacionDAO.java
+END
+RemuneracionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/RemuneracionDAO.java
+END
+UsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sibo~siborepo/!svn/ver/149/trunk/SIBOWeb/src/java/DAO/UsuarioDAO.java
+END
+EscenarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/EscenarioDAO.java
+END
+PresentacionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/PresentacionDAO.java
+END
+PuntodeventaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/PuntodeventaDAO.java
+END
+RegistroventaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/RegistroventaDAO.java
+END
+RolDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/RolDAO.java
+END
+CategoriaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/CategoriaDAO.java
+END
+OrganizadorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/OrganizadorDAO.java
+END
+EventoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sibo~siborepo/!svn/ver/80/trunk/SIBOWeb/src/java/DAO/EventoDAO.java
+END
+ReporteventasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/ReporteventasDAO.java
+END
+ClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/DAO/ClienteDAO.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sibo~siborepo/!svn/ver/166/trunk/SIBOWeb/src/java/control/servlet
+END
+CancelarReserva.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sibo~siborepo/!svn/ver/89/trunk/SIBOWeb/src/java/control/servlet/CancelarReserva.java
+END
+RegistrarCompra.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sibo~siborepo/!svn/ver/166/trunk/SIBOWeb/src/java/control/servlet/RegistrarCompra.java
+END
+RegistrarUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sibo~siborepo/!svn/ver/54/trunk/SIBOWeb/src/java/control/servlet/RegistrarUsuario.java
+END
+ValidarUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sibo~siborepo/!svn/ver/121/trunk/SIBOWeb/src/java/control/servlet/ValidarUsuario.java
+END
