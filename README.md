@@ -1,6 +1,6 @@
 # SiboWeb
 
-# SiboWeb is a tickets management system which allow to manage the selling, ticket printing and tickets administration for events such as concerts, games, etc.
+# SiboWeb is a ticket management system that allows to manage the selling, ticket printing and tickets administration processes for events such as concerts, games, etc.
 
 # this is the Web version of the application developed in Java
 
